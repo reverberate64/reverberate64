@@ -2,17 +2,9 @@
 
 This is Nora Allen, I...
 
-### School
+### Current Interests and Hobbies
 
-I attend Merit Academy, and I'm on my second year in 10th grade!
-I'm taking all sorts of CS, science, and art classes!
+I like Dungeons and Dragons
+Drawing and reading as well
 
-### Interests
-
-I love playing Dungeons and Dragons as much as I can!
-I really enjoy drawing and reading as well!
-
-### What I'm doing right now in life...
-
-I'm currently in 2 D&D campaigns
-I'm doing Inktober
+![potat :)](/assets/images/potat)
