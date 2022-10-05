@@ -4,7 +4,7 @@ This is Nora Allen, I...
 
 ### School
 
-I attend Merit Academy in Springvlle, Utah, and I'm on my second year in 10th grade!
+I attend Merit Academy, and I'm on my second year in 10th grade!
 I'm taking all sorts of CS, science, and art classes!
 
 ### Interests
