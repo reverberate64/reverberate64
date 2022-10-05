@@ -12,7 +12,7 @@ I'm taking all sorts of CS, science, and art classes!
 I love playing Dungeons and Dragons as much as I can!
 I really enjoy drawing and reading as well!
 
-# What I'm doing right now in life...
+### What I'm doing right now in life...
 
 I'm currently in 2 D&D campaigns
 I'm doing Inktober
