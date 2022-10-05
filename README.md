@@ -7,4 +7,4 @@ This is Nora Allen, I...
 I like Dungeons and Dragons
 Drawing and reading as well
 
-![potat :)](/assets/images/potat)
+![potat :)](/assets/images/potat.png)
